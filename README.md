@@ -9,7 +9,7 @@ e-commerce orders from the Olist marketplace (2016–2018).
 
 [View Interactive Tableau Dashboard →](https://prod-apsoutheast-b.online.tableau.com/t/moemoegyi1234567890-100e5852c6/authoring/OlistEcommerceAnalysis/OlistEcommerceAnalysis#2)
 
-![Dashboard Screenshot](![alt text](image.png))
+[Dashboard Screenshot](![alt text](image.png))
 
 ---
 
@@ -121,4 +121,4 @@ pip install -r requirements.txt
 
 **Zun Myat Hsu** — Data Analyst & Developer
 
-[LinkedIn](www.linkedin.com/in/zun-myat-hsu-16365b212) · [Tableau Public](https://prod-apsoutheast-b.online.tableau.com/#/site/moemoegyi1234567890-100e5852c6/home)
+[LinkedIn](https://www.linkedin.com/in/zun-myat-hsu-16365b212/) · [Tableau Public](https://prod-apsoutheast-b.online.tableau.com/#/site/moemoegyi1234567890-100e5852c6/home)
