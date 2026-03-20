@@ -9,7 +9,7 @@ e-commerce orders from the Olist marketplace (2016–2018).
 
 [View Interactive Tableau Dashboard →](https://prod-apsoutheast-b.online.tableau.com/t/moemoegyi1234567890-100e5852c6/authoring/OlistEcommerceAnalysis/OlistEcommerceAnalysis#2)
 
-[Dashboard Screenshot](![alt text](image.png))
+[Dashboard Screenshot](image.png)
 
 ---
 
