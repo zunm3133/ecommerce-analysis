@@ -1,1 +1,15 @@
+# Raw data — too large for GitHub
 data/raw/
+
+# Database files
+data/processed/*.db
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Tableau and Power BI
+*.twbx
+*.pbix
